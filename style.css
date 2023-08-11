@@ -1,0 +1,44 @@
+html {
+    height: 100%;
+}
+
+.gradient {
+    font-family: 'VT323', monospace;
+    background: linear-gradient(#BD83B8, #473E66);
+}
+
+.green {
+    font-family: 'VT323', monospace;
+    background-color: rgb(1, 255, 1);
+}
+
+.h1 {
+    text-align: center;
+    font-size: 60px;
+    font-weight: bold;
+}
+
+.h2 {
+    font-size: 40px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.btn {
+    background-color: #f1916d;
+    color: black;
+
+}
+
+input {
+    height: 40px;
+    font-size: 30px;
+}
+
+.playAgain {
+    
+    position: fixed;
+    left: 5px;
+    top: 400px;
+
+}
